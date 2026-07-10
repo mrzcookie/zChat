@@ -1,3 +1,5 @@
+> ⚠️ **This project has moved!** The active repository is now at [github.com/xena-studios/zchat](https://github.com/xena-studios/zchat). Please update your bookmarks and report issues there.
+
 zChat
 ======================================================================
 
